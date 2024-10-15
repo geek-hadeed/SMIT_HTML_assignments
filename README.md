@@ -10,4 +10,6 @@ Assignment 3 : https://vercel.live/link/hhassignment3.vercel.app/?via=team-dashb
 
 Assignment 4 : https://vercel.live/link/hhassignment4.vercel.app/?via=team-dashboard-project-entity&p=1
 
-Assignment 5 : https://hh-5th-assigment.netlify.app/
+Assignment 5 : https://hh-5th-assigment.netlify.app/](https://assignment5hh.vercel.app/
+
+Assignment 6 : https://assignment6-hh.netlify.app
